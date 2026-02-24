@@ -1,7 +1,7 @@
 {
-  "name": "openclaw",
+  "name": "agent-harness",
   "version": "2026.2.23",
-  "description": "Multi-channel AI gateway with extensible messaging integrations",
+  "description": "AgentHarness — multiplayer fork of OpenClaw AI gateway with workspace and multi-user support",
   "keywords": [],
   "homepage": "https://github.com/openclaw/openclaw#readme",
   "bugs": {
@@ -14,7 +14,7 @@
     "url": "git+https://github.com/openclaw/openclaw.git"
   },
   "bin": {
-    "openclaw": "openclaw.mjs"
+    "agent-harness-gateway": "openclaw.mjs"
   },
   "directories": {
     "doc": "docs",
